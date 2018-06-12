@@ -1,0 +1,56 @@
+.roo-container { margin: 32px 0; }
+
+.roo-categories { width: 100%; margin: 0 !important; padding: 0; }
+.roo-categories li { clear: both; margin-bottom: 8px; list-style-type: none !important; }
+
+.roo-categories .children { display: block; margin: 0 !important; }
+.roo-categories .children a { font-weight: normal !important; }
+.roo-categories .children li { clear: none; float: left; list-style-type: none; font-size: smaller; margin-right: 8px; }
+
+/* Roo star ratings */
+.ratingbox { font-size: .9em; display: block; text-align: left; }
+.rating, .rating span, .rating a, .rating .l, .rating .r { display: inline-block; }
+.rating { cursor: default; }
+
+.rating { font-size: 16px; margin: .5em 0 0; }
+.rating a { width: 1em; height: 1em; text-decoration: none; cursor: pointer; border: none !important; }
+
+.rating i { height: 100%; width: 50%; background: #cccccc url(../images/star.png) no-repeat; background-size: auto 100%; }
+.rating .l { float: left; background-position: left top; }
+.rating .r { float: right; background-position: right top; }
+
+.rating .a i, .rating .h .l { background-color: #666666; }
+
+.rating span:hover i { background-color: #cccccc !important; }
+.rating span:hover > a i, .rating a:hover i { background-color: #000000 !important; }
+
+.roo-featured { border: 1px solid rgba(128, 128, 128, 0.3); background-color: rgba(128, 128, 128, 0.1); padding: 8px; }
+
+#roo_add_link {
+	margin-bottom: 16px;	
+}
+
+#map img { max-width: none; }
+
+.clearfix { clear: both; }
+.roo-link small { font-size: smaller; }
+
+.roo img { border: 0 none; background: none; box-shadow: none; }
+.roo-thumb { float: left; margin: 0 8px 8px 0; }
+
+
+
+/* PURE OVERRIDE */
+.pure-button-xsmall { font-size: 70%; }
+.pure-button-small { font-size: 85%; }
+.pure-button-large { font-size: 110%; }
+.pure-button-xlarge { font-size: 125%; }
+
+.pure-form input,
+.pure-form select,
+.pure-form textarea,
+.pure-form button {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}

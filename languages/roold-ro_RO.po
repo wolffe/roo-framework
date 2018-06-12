@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Roo Link Directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-09 12:38-0000\n"
+"PO-Revision-Date: 2014-01-09 12:38-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:291
+msgid "Attachments"
+msgstr "Atasamente"
+
+#: ../index.php:292
+msgid "Pageviews"
+msgstr "Vizualizari"
+
+#: ../index.php:463 ../index.php:524
+msgid "Link submitted successfully!"
+msgstr "Linkul a fost adaugat cu succes!"
+
+#: ../index.php:466
+msgid "Wrong verification code!"
+msgstr "Cod de verificare gresit (sau invalid)!"
+
+#: ../index.php:531
+msgid "Add a link"
+msgstr "Adauga link"
+
+#: ../index.php:534
+msgid "Website title"
+msgstr "Titlu site"
+
+#: ../index.php:535
+msgid "Website URL (including http://)"
+msgstr "Adresa URL (cu http://)"
+
+#: ../index.php:537
+msgid "Your name (first and last name)"
+msgstr "Nume si prenume"
+
+#: ../index.php:538
+msgid "Your email (private)"
+msgstr "Email (privat)"
+
+#: ../index.php:542
+msgid "Reciprocal URL (including http://)"
+msgstr "URL reciproc (cu http://)"
+
+#: ../index.php:548
+msgid "Address"
+msgstr "Adresa"
+
+#: ../index.php:549
+msgid "City/County"
+msgstr "Oras/Regiune"
+
+#: ../index.php:550
+msgid "Country"
+msgstr "Tara"
+
+#: ../index.php:559
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../index.php:561
+msgid "Fax"
+msgstr "Fax"
+
+#: ../index.php:563
+msgid "Open hours"
+msgstr "Program"
+
+#: ../index.php:578
+msgid "Maximum images:"
+msgstr "Maxim imagini:"
+
+#: ../index.php:578
+msgid "Maximum filesize:"
+msgstr "Marime fisier maxima:"
+
+#: ../index.php:582
+msgid "Description"
+msgstr "Descriere"
+
+#: ../index.php:591
+msgid "Add"
+msgstr "Adauga"
+
+#: ../index.php:604 ../index.php:667
+msgid "Search directory..."
+msgstr "Cauta in director..."
+
+#: ../index.php:605 ../index.php:668
+msgid "Search"
+msgstr "Cauta"
+
+#: ../index.php:617
+msgid "Latest link"
+msgstr "Cel mai recent link"
+
+#: ../index.php:824
+msgid "Directory Statistics"
+msgstr "Statistici director"
+
+#: ../index.php:827
+msgid " links"
+msgstr " linkuri"
+
+#: ../index.php:828
+msgid " pending links"
+msgstr " linkuri in asteptare"
+
+#: ../index.php:829
+msgid " categories"
+msgstr " categorii"
+
+#: ../index.php:868
+msgid "Most Visited Links"
+msgstr "Cele mai vizitate linkuri"
+
+#: ../includes/functions.php:223 ../includes/functions.php:247
+msgid "Name"
+msgstr "Nume"
+
+#: ../includes/functions.php:224 ../includes/functions.php:248
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/functions.php:225 ../includes/functions.php:250
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../includes/functions.php:238
+msgid "Thank you. Your message has been sent."
+msgstr "Multumesc. Mesajul a fost trimis."
+
+#: ../includes/functions.php:240
+msgid "There was an error with your message. Please try again."
+msgstr "A aparut o eroare la trimiterea mesajului. Incearca din nou."
+
+#: ../includes/functions.php:244
+msgid "Quick Contact/Application"
+msgstr "Contact rapid"
+
+#: ../includes/functions.php:252
+msgid "Send message"
+msgstr "Trimite mesaj"
+
+#: ../includes/page-display-directory.php:57
+msgid "review(s)"
+msgstr "pareri"
+
+#: ../includes/page-display-directory.php:100
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: ../includes/page-display-directory.php:103
+msgid "Fax:"
+msgstr "Fax:"
+
+#: ../includes/page-display-directory.php:106
+msgid "Open hours:"
+msgstr "Program:"
+
+#: ../includes/page-display-directory.php:113
+msgid "enter your location to get directions from Google Maps..."
+msgstr "Introdu adresa ta pentru a obtine indicatii de la Google Maps..."
+
+#: ../includes/page-display-directory.php:114
+msgid "Go"
+msgstr "Arata"
+
+#: ../includes/page-display-directory.php:132
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../includes/registration.php:43
+msgid "Search Roo Categories"
+msgstr "Cauta categorii Roo"
+
+#: ../includes/registration.php:44
+msgid "All Roo Categories"
+msgstr "Toate Categoriile Roo"
+
+#: ../includes/registration.php:45
+msgid "Parent Roo Categories"
+msgstr "Categorii Roo Parinte"
+
+#: ../includes/registration.php:46
+msgid "Parent Roo Categories:"
+msgstr "Categorii Roo Parinte:"
+
+#: ../includes/registration.php:47
+msgid "Edit Roo Category"
+msgstr "Editeaza Categorie Roo"
+
+#: ../includes/registration.php:48
+msgid "Update Roo Category"
+msgstr "Actualizare Categorie Roo"
+
+#: ../includes/registration.php:49
+msgid "Add New Roo Category"
+msgstr "Adaugare Categorie Roo Noua"
+
+#: ../includes/registration.php:50
+msgid "New Roo Category Name"
+msgstr "Nume Nou Categorie Roo "
+
+#: ../includes/registration.php:51
+msgid "Roo Categories"
+msgstr "Categorii Roo"
+
+#: ../includes/registration.php:67
+msgid "Search Roo Flavours"
+msgstr "Cauta Arome Roo "
+
+#: ../includes/registration.php:68
+msgid "Popular Roo Flavours"
+msgstr "Arome Roo Populare"
+
+#: ../includes/registration.php:69
+msgid "All Roo Flavours"
+msgstr "Toate Aromele Roo"
+
+#: ../includes/registration.php:72
+msgid "Edit Roo Flavour"
+msgstr "Editare Aroma Roo"
+
+#: ../includes/registration.php:73
+msgid "Update Roo Flavour"
+msgstr "Actualizare Aroma Roo"
+
+#: ../includes/registration.php:74
+msgid "Add New Roo Flavour"
+msgstr "Adaugare Aroma Roo Noua"
+
+#: ../includes/registration.php:75
+msgid "New Roo Flavour Name"
+msgstr "Nume Nou Aroma Roo"
+
+#: ../includes/registration.php:76
+msgid "Separate flavours with commas"
+msgstr "Separare arome prin virgule"
+
+#: ../includes/registration.php:77
+msgid "Add or remove flavours"
+msgstr "Adauga sau elimina arome"
+
+#: ../includes/registration.php:78
+msgid "Choose from the most used flavours"
+msgstr "Alege din cele mai utilizate arome"
+
+#: ../includes/registration.php:79
+msgid "Roo Flavours"
+msgstr "Aroma Roo"
+
+#~ msgid "Categories"
+#~ msgstr " Categorii"
+
+#~ msgid "No categories"
+#~ msgstr "Nicio categorie"
+
+#~ msgid "This site has reciprocal link"
+#~ msgstr "Acest site are link reciproc"
+
+#~ msgid "Go to web site"
+#~ msgstr "Mergi la site"
+
+#~ msgid "SEO/SERP"
+#~ msgstr "SEO/SERP"
+
+#~ msgid "PageRank&trade;"
+#~ msgstr "PageRank&trade;"
+
+#~ msgid "Alexa Rank"
+#~ msgstr "Rang Alexa"
+
+#~ msgid "backlinks <em>(based on Alexa)</em>"
+#~ msgstr "backlink-uri <em>(bazate pe Alexa)</em>"
+
+#~ msgid " featured links"
+#~ msgstr " linkuri speciale"
+
+#~ msgid "Please enter a valid name!"
+#~ msgstr "Nume invalid!"
+
+#~ msgid "Please enter a valid email address!"
+#~ msgstr "Adresa de email invalida!"
+
+#~ msgid "Your link will appear in the directory after approval!"
+#~ msgstr "Linkul va aparea in director dupa aprobare!"
+
+#~ msgid "(X)HTML tags allowed: "
+#~ msgstr "Etichete (X)HTML permise:"
+
+#~ msgid "Maximum: %s characters"
+#~ msgstr "Maxim: %s caractere"
+
+#~ msgid "Your Name"
+#~ msgstr "Nume"
+
+#~ msgid "Website URL"
+#~ msgstr "Adresa URL site"
+
+#~ msgid "used for Google Maps"
+#~ msgstr "folosita pentru Google Maps"
+
+#~ msgid "Open-hours"
+#~ msgstr "Program"
+
+#~ msgid "You must add a reciprocal link to your site before submission!"
+#~ msgstr "Trebuie sa adaugi un link reciproc inainte de inscriere!"
+
+#~ msgid ""
+#~ "Sites with a Google PR of less than %s must add a reciprocal link before "
+#~ "submission!"
+#~ msgstr ""
+#~ "Site-urile cu Google PR mai mic de %s trebuie sa adauge un link reciproc "
+#~ "inainte de inscriere!"
+
+#~ msgid "Reciprocal URL"
+#~ msgstr "Link reciproc"
+
+#~ msgid "Add this (X)HTML code to your page:"
+#~ msgstr "Adauga acest cod (X)HTML pe site-ul tau:"
+
+#~ msgid "The resulting link will look like this:"
+#~ msgstr "Linkul va arata astfel:"
+
+#~ msgid "Type the first 3 letters of <strong>spam</strong>"
+#~ msgstr "Scrie primele 3 litere din cuvantul <strong>spam</strong>"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Logo(type) image (.jpg, .png, .gif)"
+#~ msgstr "Logo/imagine (.jpg, .png, .gif)"
+
+#~ msgid "Add Link"
+#~ msgstr "Adauga link"
+
+#~ msgid "Search links"
+#~ msgstr "Cauta linkuri"
+
+#~ msgid "Search in:"
+#~ msgstr "Cauta in:"
+
+#~ msgid "All"
+#~ msgstr "Toate"
+
+#~ msgid "Title"
+#~ msgstr "Titlu"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "No results found!"
+#~ msgstr "Nici un rezultat gasit!"
+
+#~ msgid "Home"
+#~ msgstr "Acasa"
+
+#~ msgid "Invalid request."
+#~ msgstr "Cerere invalida."
+
+#~ msgid "This link has been deleted or does not exist."
+#~ msgstr "Acest link a fost sters sau nu exista."
+
+#~ msgid "This site is featured"
+#~ msgstr "Acest site este evidentiat"
+
+#~ msgid " total sites added by this user"
+#~ msgstr " site-uri adaugate de acest utilizator"
+
+#~ msgid "Print this page"
+#~ msgstr "Printeaza aceasta pagina"
+
+#~ msgid " incoming hits"
+#~ msgstr " vizite"
+
+#~ msgid " outgoing clicks"
+#~ msgstr " clickuri"
+
+#~ msgid "ratings"
+#~ msgstr "voturi"
+
+#~ msgid "Added in"
+#~ msgstr "Adaugat in"
+
+#~ msgid "on"
+#~ msgstr "la"
+
+#~ msgid "Comments/reviews"
+#~ msgstr "Comentarii/pareri"
+
+#~ msgid "Add a comment/review"
+#~ msgstr "Adauga comentariu/parere"
+
+#~ msgid "Add comment"
+#~ msgstr "Adauga comentariu/parere"
+
+#~ msgid "email is hidden"
+#~ msgstr "adresa email este ascunsa"
+
+#~ msgid "Comment"
+#~ msgstr "Comentariu"
+
+#~ msgid "External link"
+#~ msgstr "Link extern"
+
+#~ msgid "This site has Google Maps address"
+#~ msgstr "Acest site are adresa Google Maps"
+
+#~ msgid "This site has a phone number"
+#~ msgstr "Acest site are un numar de telefon"
+
+#~ msgid "This site has a logo"
+#~ msgstr "Acest site are un logo"
+
+#~ msgid "Recently Added"
+#~ msgstr "Adaugate recent"
+
+#~ msgid "Add link"
+#~ msgstr "Adauga link"
+
+#~ msgid "Detailed information is not available."
+#~ msgstr "Informatii detaliate indisponibile."
+
+#~ msgid "required"
+#~ msgstr "obligatoriu"
+
+#~ msgid ""
+#~ "The reciprocal link page must be somewhere on the domain you are adding."
+#~ msgstr ""
+#~ "Linkul reciproc trebuie sa fie pe o pagina in cadrul domeniului adaugat."
+
+#~ msgid "The reciprocal URL you supplied is not accessible!"
+#~ msgstr "Linkul reciproc nu este accesibil!"
+
+#~ msgid "No reciprocal link was found on the page!"
+#~ msgstr "Nu a fost gasit niciun link reciproc!"
+
+#~ msgid "Title:"
+#~ msgstr "Titlu:"
+
+#~ msgid "Simple Message"
+#~ msgstr "Mesaj"
+
+#~ msgid "Listing Details"
+#~ msgstr "Detalii link"
+
+#~ msgid "Hits:"
+#~ msgstr "Clickuri:"
+
+#~ msgid "In/Out"
+#~ msgstr "De la/Catre"
+
+#~ msgid "Open-hours:"
+#~ msgstr "Program:"
+
+#~ msgid "Options"
+#~ msgstr "Optiuni"
+
+#~ msgid "opens in new window"
+#~ msgstr "se deschide in fereastra noua"
+
+#~ msgid "SEO"
+#~ msgstr "SEO"
+
+#~ msgid "go to web site"
+#~ msgstr "mergi la site"

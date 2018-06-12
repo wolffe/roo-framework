@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Roo Link Directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-09 12:37-0000\n"
+"PO-Revision-Date: 2014-01-09 12:37-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:291
+msgid "Attachments"
+msgstr "Attachement"
+
+#: ../index.php:292
+msgid "Pageviews"
+msgstr "Affichages"
+
+#: ../index.php:463 ../index.php:524
+msgid "Link submitted successfully!"
+msgstr "Votre lien a été ajouté avec succès!"
+
+#: ../index.php:466
+msgid "Wrong verification code!"
+msgstr "Code de verification incorrect!"
+
+#: ../index.php:531
+msgid "Add a link"
+msgstr "Ajouter un lien"
+
+#: ../index.php:534
+msgid "Website title"
+msgstr "Titre de votre site Internet"
+
+#: ../index.php:535
+msgid "Website URL (including http://)"
+msgstr "Site Web URL (http:// inclus)"
+
+#: ../index.php:537
+msgid "Your name (first and last name)"
+msgstr "Nom et prénom"
+
+#: ../index.php:538
+msgid "Your email (private)"
+msgstr "Votre email (privé)"
+
+#: ../index.php:542
+msgid "Reciprocal URL (including http://)"
+msgstr "URL réciproque (http:// inclus)"
+
+#: ../index.php:548
+msgid "Address"
+msgstr "Adresse"
+
+#: ../index.php:549
+msgid "City/County"
+msgstr "Ville/Comté "
+
+#: ../index.php:550
+msgid "Country"
+msgstr "Pays"
+
+#: ../index.php:559
+msgid "Phone"
+msgstr "Téléphone"
+
+#: ../index.php:561
+msgid "Fax"
+msgstr "Fax"
+
+#: ../index.php:563
+msgid "Open hours"
+msgstr "Horaires d'ouverture"
+
+#: ../index.php:578
+msgid "Maximum images:"
+msgstr ""
+
+#: ../index.php:578
+msgid "Maximum filesize:"
+msgstr ""
+
+#: ../index.php:582
+msgid "Description"
+msgstr "Description"
+
+#: ../index.php:591
+msgid "Add"
+msgstr "Ajouter"
+
+#: ../index.php:604 ../index.php:667
+msgid "Search directory..."
+msgstr "Cherchez l'annuaire..."
+
+#: ../index.php:605 ../index.php:668
+msgid "Search"
+msgstr "Recherche"
+
+#: ../index.php:617
+msgid "Latest link"
+msgstr "Lien antérieur"
+
+#: ../index.php:824
+msgid "Directory Statistics"
+msgstr "Statistiques de l'annuaire"
+
+#: ../index.php:827
+msgid " links"
+msgstr " liens"
+
+#: ../index.php:828
+msgid " pending links"
+msgstr " liens en attente"
+
+#: ../index.php:829
+msgid " categories"
+msgstr " catégories"
+
+#: ../index.php:868
+msgid "Most Visited Links"
+msgstr "Les plus visités liens"
+
+#: ../includes/functions.php:223 ../includes/functions.php:247
+msgid "Name"
+msgstr "Nom"
+
+#: ../includes/functions.php:224 ../includes/functions.php:248
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/functions.php:225 ../includes/functions.php:250
+msgid "Message"
+msgstr "Message"
+
+#: ../includes/functions.php:238
+msgid "Thank you. Your message has been sent."
+msgstr "Merci. Votre message a été envoyé."
+
+#: ../includes/functions.php:240
+msgid "There was an error with your message. Please try again."
+msgstr ""
+"Une erreur est survenue durant l'envoi de votre message. Merci de réessayer."
+
+#: ../includes/functions.php:244
+msgid "Quick Contact/Application"
+msgstr "Contact rapide"
+
+#: ../includes/functions.php:252
+msgid "Send message"
+msgstr "Envoyer un message"
+
+#: ../includes/page-display-directory.php:57
+msgid "review(s)"
+msgstr "commentaires"
+
+#: ../includes/page-display-directory.php:100
+msgid "Phone:"
+msgstr "Téléphone:"
+
+#: ../includes/page-display-directory.php:103
+msgid "Fax:"
+msgstr "Fax:"
+
+#: ../includes/page-display-directory.php:106
+msgid "Open hours:"
+msgstr "Horaires d'ouverture:"
+
+#: ../includes/page-display-directory.php:113
+msgid "enter your location to get directions from Google Maps..."
+msgstr ""
+"entrez votre localisation pour trouver les itinéraires de Google Maps..."
+
+#: ../includes/page-display-directory.php:114
+msgid "Go"
+msgstr "Aller"
+
+#: ../includes/page-display-directory.php:132
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../includes/registration.php:43
+msgid "Search Roo Categories"
+msgstr "Rechercher les catégories Roo"
+
+#: ../includes/registration.php:44
+msgid "All Roo Categories"
+msgstr "Toutes les catégories Roo"
+
+#: ../includes/registration.php:45
+msgid "Parent Roo Categories"
+msgstr "Catégories Roo parentes"
+
+#: ../includes/registration.php:46
+msgid "Parent Roo Categories:"
+msgstr "Catégories Roo parentes"
+
+#: ../includes/registration.php:47
+msgid "Edit Roo Category"
+msgstr "Editer catégorie Roo"
+
+#: ../includes/registration.php:48
+msgid "Update Roo Category"
+msgstr "Mise à jour de la catégorie Roo"
+
+#: ../includes/registration.php:49
+msgid "Add New Roo Category"
+msgstr "Ajouter nouvelle catégorie Roo"
+
+#: ../includes/registration.php:50
+msgid "New Roo Category Name"
+msgstr "Nouveau nom de la catégorie Roo"
+
+#: ../includes/registration.php:51
+msgid "Roo Categories"
+msgstr "Catégories Roo"
+
+#: ../includes/registration.php:67
+msgid "Search Roo Flavours"
+msgstr "Recherche de saveurs Roo"
+
+#: ../includes/registration.php:68
+msgid "Popular Roo Flavours"
+msgstr "Saveurs Roo populaires"
+
+#: ../includes/registration.php:69
+msgid "All Roo Flavours"
+msgstr "Toutes les saveurs Roo"
+
+#: ../includes/registration.php:72
+msgid "Edit Roo Flavour"
+msgstr "Editer la saveur Roo"
+
+#: ../includes/registration.php:73
+msgid "Update Roo Flavour"
+msgstr "Mise à jour de la saveur Roo"
+
+#: ../includes/registration.php:74
+msgid "Add New Roo Flavour"
+msgstr "Ajouter nouvelle saveur Roo"
+
+#: ../includes/registration.php:75
+msgid "New Roo Flavour Name"
+msgstr "Nouveau nom de saveur Roo"
+
+#: ../includes/registration.php:76
+msgid "Separate flavours with commas"
+msgstr "Séparer les saveurs par des virgules"
+
+#: ../includes/registration.php:77
+msgid "Add or remove flavours"
+msgstr "Ajouter ou supprimer des saveurs"
+
+#: ../includes/registration.php:78
+msgid "Choose from the most used flavours"
+msgstr "Choisissez parmi les saveurs plus utilisés"
+
+#: ../includes/registration.php:79
+msgid "Roo Flavours"
+msgstr "Saveurs Roo"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "No categories"
+#~ msgstr "Aucune catégorie"
+
+#~ msgid "This site has reciprocal link"
+#~ msgstr "Le site Internet a un lien réciproque"
+
+#~ msgid "Go to web site"
+#~ msgstr "Allez sur le site Internet"
+
+#~ msgid "SEO/SERP"
+#~ msgstr "SEO/SERP"
+
+#~ msgid "PageRank&trade;"
+#~ msgstr "PageRank&trade;"
+
+#~ msgid "Alexa Rank"
+#~ msgstr "Grade Alexa"
+
+#~ msgid "backlinks <em>(based on Alexa)</em>"
+#~ msgstr "backlink <em>(basé sur Alexa)</em>"
+
+#~ msgid "Please enter a valid name!"
+#~ msgstr "Nom incorrecte!"
+
+#~ msgid "Please enter a valid email address!"
+#~ msgstr "Email incorrecte!"
+
+#~ msgid "Your link will appear in the directory after approval!"
+#~ msgstr "Votre lien apparaîtra dans l'annuaire après acceptation!"
+
+#~ msgid "(X)HTML tags allowed: "
+#~ msgstr "(X)HTML tags acceptés:"
+
+#~ msgid "Maximum: %s characters"
+#~ msgstr "Maximum: %s caractères"
+
+#~ msgid "Your Name"
+#~ msgstr "Votre nom"
+
+#~ msgid "Website URL"
+#~ msgstr "URL de votre site Internet"
+
+#~ msgid "used for Google Maps"
+#~ msgstr "utilisé pour Google Maps"
+
+#~ msgid "Open-hours"
+#~ msgstr "Horaires d'ouverture"
+
+#~ msgid "You must add a reciprocal link to your site before submission!"
+#~ msgstr ""
+#~ "Vous devez ajouter un lien réciproque à votre site Internet avant "
+#~ "soumission!"
+
+#~ msgid ""
+#~ "Sites with a Google PR of less than %s must add a reciprocal link before "
+#~ "submission!"
+#~ msgstr ""
+#~ "Les sites Internet avec un Page Rank de moins de %s doivent ajouter un "
+#~ "lien réciproque avant soumision!"
+
+#~ msgid "Reciprocal URL"
+#~ msgstr "URL de la page où se situe le lien réciproque"
+
+#~ msgid "Add this (X)HTML code to your page:"
+#~ msgstr "Ajoutez ce code (X)HTML à votre page de liens:"
+
+#~ msgid "The resulting link will look like this:"
+#~ msgstr "Voici ce à quoi ressemblera le lien résultant:"
+
+#~ msgid "Type the first 3 letters of <strong>spam</strong>"
+#~ msgstr "Tapez les 3 premières lettres du mot <strong>spam</strong>"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Logo(type) image (.jpg, .png, .gif)"
+#~ msgstr "Logo(type) image (.jpg, .png, .gif)"
+
+#~ msgid "Add Link"
+#~ msgstr "Ajoutez un lien"
+
+#~ msgid "Search links"
+#~ msgstr "Cherchez les liens"
+
+#~ msgid "Search in:"
+#~ msgstr "Cherchez dans:"
+
+#~ msgid "All"
+#~ msgstr "Tout"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "No results found!"
+#~ msgstr "Aucun résultat trouvé!"
+
+#~ msgid "Home"
+#~ msgstr "Voir tous les liens"
+
+#~ msgid "Invalid request."
+#~ msgstr "Requête invalide."
+
+#~ msgid "This link has been deleted or does not exist."
+#~ msgstr "Le lien a été supprimé ou n'existe pas."
+
+#~ msgid "This site is featured"
+#~ msgstr "Ce site Internet est en vedette"
+
+#~ msgid " total sites added by this user"
+#~ msgstr " total sites ajoutés par utilisateur"
+
+#~ msgid "Print this page"
+#~ msgstr "Imprimez cette page"
+
+#~ msgid " incoming hits"
+#~ msgstr "Liens entrants"
+
+#~ msgid " outgoing clicks"
+#~ msgstr "Liens sortants"
+
+#~ msgid "ratings"
+#~ msgstr "votes"
+
+#~ msgid "Added in"
+#~ msgstr "Ajouté dans"
+
+#~ msgid "on"
+#~ msgstr "sur"
+
+#~ msgid "Comments/reviews"
+#~ msgstr "Commentaires/opinions"
+
+#~ msgid "Add a comment/review"
+#~ msgstr "Ajoute un commentaire / une opinion"
+
+#~ msgid "Add comment"
+#~ msgstr "Ajoute un commentaire / une opinion"
+
+#~ msgid "email is hidden"
+#~ msgstr "email et caché"
+
+#~ msgid "Comment"
+#~ msgstr "Commentaire"
+
+#~ msgid "External link"
+#~ msgstr "Lien externe"
+
+#~ msgid "This site has Google Maps address"
+#~ msgstr "Ce site Internet a une adresse Google Maps"
+
+#~ msgid "This site has a phone number"
+#~ msgstr "Ce site Internet a un numéro de téléphone"
+
+#~ msgid "This site has a logo"
+#~ msgstr "Ce site Internet a un logo"
+
+#~ msgid "Add link"
+#~ msgstr "Ajoutez un lien"
+
+#~ msgid "Detailed information is not available."
+#~ msgstr "Aucune information détaillée n'est disponible."
+
+#~ msgid "required"
+#~ msgstr "requis"
+
+#~ msgid ""
+#~ "The reciprocal link page must be somewhere on the domain you are adding."
+#~ msgstr ""
+#~ "La page de liens réciproques doit se trouver dans le domaine que vous "
+#~ "ajoutez."
+
+#~ msgid "The reciprocal URL you supplied is not accessible!"
+#~ msgstr "L'URL réciproque que vous avez ajoutée n'est pas accessible !"
+
+#~ msgid "No reciprocal link was found on the page!"
+#~ msgstr "Aucun lien réciproque n'a été trouvé sur la page !"

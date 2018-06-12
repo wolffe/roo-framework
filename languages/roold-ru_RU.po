@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Roo Link Directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-09 12:37-0000\n"
+"PO-Revision-Date: 2014-01-09 12:38-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Valeriy Stepchuk <stepchuk@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:291
+msgid "Attachments"
+msgstr "Вложения"
+
+#: ../index.php:292
+msgid "Pageviews"
+msgstr "Просмотров страницы"
+
+#: ../index.php:463 ../index.php:524
+msgid "Link submitted successfully!"
+msgstr "Ваша ссылка была успешно добавлена!"
+
+#: ../index.php:466
+msgid "Wrong verification code!"
+msgstr ""
+
+#: ../index.php:531
+msgid "Add a link"
+msgstr "Добавить ссылку"
+
+#: ../index.php:534
+msgid "Website title"
+msgstr "Название веб-сайта"
+
+#: ../index.php:535
+msgid "Website URL (including http://)"
+msgstr "URL веб-сайта (включая http://)"
+
+#: ../index.php:537
+msgid "Your name (first and last name)"
+msgstr "Ваше имя (имя и фамилия)"
+
+#: ../index.php:538
+msgid "Your email (private)"
+msgstr "Ваш email (не разглашается)"
+
+#: ../index.php:542
+msgid "Reciprocal URL (including http://)"
+msgstr "URL обратной ссылки (включая http://)"
+
+#: ../index.php:548
+msgid "Address"
+msgstr "Адрес"
+
+#: ../index.php:549
+msgid "City/County"
+msgstr "Город/Страна"
+
+#: ../index.php:550
+msgid "Country"
+msgstr "Страна"
+
+#: ../index.php:559
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../index.php:561
+msgid "Fax"
+msgstr "Факс"
+
+#: ../index.php:563
+msgid "Open hours"
+msgstr "Рабочее время"
+
+#: ../index.php:578
+msgid "Maximum images:"
+msgstr ""
+
+#: ../index.php:578
+msgid "Maximum filesize:"
+msgstr ""
+
+#: ../index.php:582
+msgid "Description"
+msgstr "Описание"
+
+#: ../index.php:591
+msgid "Add"
+msgstr "Добавить"
+
+#: ../index.php:604 ../index.php:667
+msgid "Search directory..."
+msgstr "Поиск каталога..."
+
+#: ../index.php:605 ../index.php:668
+msgid "Search"
+msgstr "Поиск"
+
+#: ../index.php:617
+msgid "Latest link"
+msgstr "Последняя ссылка"
+
+#: ../index.php:824
+msgid "Directory Statistics"
+msgstr "Статистика каталога"
+
+#: ../index.php:827
+msgid " links"
+msgstr " ссылки"
+
+#: ../index.php:828
+msgid " pending links"
+msgstr " рассматриваемые ссылки"
+
+#: ../index.php:829
+msgid " categories"
+msgstr " категории"
+
+#: ../index.php:868
+msgid "Most Visited Links"
+msgstr "Самые Посещаемые Ссылки"
+
+#: ../includes/functions.php:223 ../includes/functions.php:247
+msgid "Name"
+msgstr "Имя"
+
+#: ../includes/functions.php:224 ../includes/functions.php:248
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/functions.php:225 ../includes/functions.php:250
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../includes/functions.php:238
+msgid "Thank you. Your message has been sent."
+msgstr "Спасибо. Ваше сообщение было отправлено."
+
+#: ../includes/functions.php:240
+msgid "There was an error with your message. Please try again."
+msgstr "Возникла ошибка с вашим сообщением. Пожалуйста, попробуйте еще раз."
+
+#: ../includes/functions.php:244
+msgid "Quick Contact/Application"
+msgstr ""
+
+#: ../includes/functions.php:252
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: ../includes/page-display-directory.php:57
+msgid "review(s)"
+msgstr "обзор(ы)"
+
+#: ../includes/page-display-directory.php:100
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: ../includes/page-display-directory.php:103
+msgid "Fax:"
+msgstr "Факс:"
+
+#: ../includes/page-display-directory.php:106
+msgid "Open hours:"
+msgstr "Рабочее время:"
+
+#: ../includes/page-display-directory.php:113
+msgid "enter your location to get directions from Google Maps..."
+msgstr ""
+"введите свое месторасположение, чтобы увидеть маршрут на карте Google..."
+
+#: ../includes/page-display-directory.php:114
+msgid "Go"
+msgstr "Перейти"
+
+#: ../includes/page-display-directory.php:132
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../includes/registration.php:43
+msgid "Search Roo Categories"
+msgstr "Поиск Roo категорий"
+
+#: ../includes/registration.php:44
+msgid "All Roo Categories"
+msgstr "Все Roo категории"
+
+#: ../includes/registration.php:45
+msgid "Parent Roo Categories"
+msgstr "Родительские Roo категории"
+
+#: ../includes/registration.php:46
+msgid "Parent Roo Categories:"
+msgstr "Родительские Roo категории:"
+
+#: ../includes/registration.php:47
+msgid "Edit Roo Category"
+msgstr "Редактировать Roo категории"
+
+#: ../includes/registration.php:48
+msgid "Update Roo Category"
+msgstr "Обновить Roo Категории"
+
+#: ../includes/registration.php:49
+msgid "Add New Roo Category"
+msgstr "Добавить Новую Roo Категорию"
+
+#: ../includes/registration.php:50
+msgid "New Roo Category Name"
+msgstr "Новоя Имя Roo Категории"
+
+#: ../includes/registration.php:51
+msgid "Roo Categories"
+msgstr "Roo категории"
+
+#: ../includes/registration.php:67
+msgid "Search Roo Flavours"
+msgstr "Поиск Roo Меток"
+
+#: ../includes/registration.php:68
+msgid "Popular Roo Flavours"
+msgstr "Популярные Roo Метки"
+
+#: ../includes/registration.php:69
+msgid "All Roo Flavours"
+msgstr "Все Roo Метки"
+
+#: ../includes/registration.php:72
+msgid "Edit Roo Flavour"
+msgstr "Редактировать Roo Метку"
+
+#: ../includes/registration.php:73
+msgid "Update Roo Flavour"
+msgstr "Обновить Roo Метку"
+
+#: ../includes/registration.php:74
+msgid "Add New Roo Flavour"
+msgstr "Добавить Новую Roo Метку"
+
+#: ../includes/registration.php:75
+msgid "New Roo Flavour Name"
+msgstr "Новое Имя Roo метки"
+
+#: ../includes/registration.php:76
+msgid "Separate flavours with commas"
+msgstr "Разделяйте метки запятыми"
+
+#: ../includes/registration.php:77
+msgid "Add or remove flavours"
+msgstr "Добавить или удалить метки"
+
+#: ../includes/registration.php:78
+msgid "Choose from the most used flavours"
+msgstr "Выбрать из наиболее часто используемых меток"
+
+#: ../includes/registration.php:79
+msgid "Roo Flavours"
+msgstr "Roo Метки"
+
+#~ msgid "Categories"
+#~ msgstr "Категории"
+
+#~ msgid "No categories"
+#~ msgstr "Нет категорий"
+
+#~ msgid "This site has reciprocal link"
+#~ msgstr "Этот сайт содержит обратную ссылку"
+
+#~ msgid "Go to web site"
+#~ msgstr "Перейти на сайт"
+
+#~ msgid "SEO/SERP"
+#~ msgstr "SEO/SERP"
+
+#~ msgid "Your link will appear in the directory after approval!"
+#~ msgstr "Ваша ссылка появится в каталоге после утверждения!"
+
+#~ msgid "(X)HTML tags allowed: "
+#~ msgstr "Доступные (X)HTML теги:"
+
+#~ msgid "Maximum: %s characters"
+#~ msgstr "Максимум: %s символов"
+
+#~ msgid "Your Name"
+#~ msgstr "Ваше Имя"
+
+#~ msgid "Website URL"
+#~ msgstr "URL веб-сайта"
+
+#~ msgid "used for Google Maps"
+#~ msgstr "используется для карт Google"
+
+#~ msgid "Open-hours"
+#~ msgstr "Время работы"
+
+#~ msgid "You must add a reciprocal link to your site before submission!"
+#~ msgstr ""
+#~ "Для добавления сайта необходима обратная ссылка с вашего сайта на наш!"
+
+#~ msgid ""
+#~ "Sites with a Google PR of less than %s must add a reciprocal link before "
+#~ "submission!"
+#~ msgstr ""
+#~ "Сайты с Google PR менее %s должны содержать обратную ссылку с вашего "
+#~ "сайта на наш!"
+
+#~ msgid "Reciprocal URL"
+#~ msgstr "URL обратной ссылки"
+
+#~ msgid "Add this (X)HTML code to your page:"
+#~ msgstr "Добавьте данный (X)HTML код на ваш сайт:"
+
+#~ msgid "The resulting link will look like this:"
+#~ msgstr "В результате ссылка будет выглядеть следующим образом:"
+
+#~ msgid "Type the first 3 letters of <strong>spam</strong>"
+#~ msgstr "Введите первые три буквы слова <strong>spam</strong>"
+
+#~ msgid "Logo"
+#~ msgstr "Логотип"
+
+#~ msgid "Logo(type) image (.jpg, .png, .gif)"
+#~ msgstr "Изображение логотипа (.jpg, .png, .gif)"
+
+#~ msgid "Add Link"
+#~ msgstr "Добавить ссылку"
+
+#~ msgid "Search links"
+#~ msgstr "Поиск ссылки"
+
+#~ msgid "Search in:"
+#~ msgstr "Поиск в:"
+
+#~ msgid "All"
+#~ msgstr "Везде"
+
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "No results found!"
+#~ msgstr "Ничего не найдено!"
+
+#~ msgid "Home"
+#~ msgstr "Главная"
+
+#~ msgid "Invalid request."
+#~ msgstr "Неверный запрос."
+
+#~ msgid "This link has been deleted or does not exist."
+#~ msgstr "Эта ссылка была удалена или не существует."
+
+#~ msgid "This site is featured"
+#~ msgstr "Этот сайт избранный"
+
+#~ msgid " total sites added by this user"
+#~ msgstr "всего добавлено сайтов этим пользователем"
+
+#~ msgid "Print this page"
+#~ msgstr "Напечатать данную страницу"
+
+#~ msgid " incoming hits"
+#~ msgstr " просмотры"
+
+#~ msgid " outgoing clicks"
+#~ msgstr " переходы"
+
+#~ msgid "ratings"
+#~ msgstr "рейтинг"
+
+#~ msgid "Added in"
+#~ msgstr "Добавлено"
+
+#~ msgid "on"
+#~ msgstr "в"
+
+#~ msgid "Comments/reviews"
+#~ msgstr "Комментарии/обзоры"
+
+#~ msgid "Add a comment/review"
+#~ msgstr "Добавить комментарий/обзор"
+
+#~ msgid "Add comment"
+#~ msgstr "Добавить комментарий"
+
+#~ msgid "email is hidden"
+#~ msgstr "email скрыт"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "External link"
+#~ msgstr "Внешняя ссылка"
+
+#~ msgid "This site has Google Maps address"
+#~ msgstr "У сайта указан адрес на карте Google"
+
+#~ msgid "This site has a phone number"
+#~ msgstr "У сайта указан номер телефона"
+
+#~ msgid "This site has a logo"
+#~ msgstr "У сайта имеется логотип"
+
+#~ msgid "Add link"
+#~ msgstr "Добавить ссылку"
+
+#~ msgid "Detailed information is not available."
+#~ msgstr "Подробная информация недоступна."

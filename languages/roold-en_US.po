@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Roo Link Directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-09 12:36-0000\n"
+"PO-Revision-Date: 2014-01-09 12:36-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:291
+msgid "Attachments"
+msgstr ""
+
+#: ../index.php:292
+msgid "Pageviews"
+msgstr ""
+
+#: ../index.php:463 ../index.php:524
+msgid "Link submitted successfully!"
+msgstr ""
+
+#: ../index.php:466
+msgid "Wrong verification code!"
+msgstr ""
+
+#: ../index.php:531
+msgid "Add a link"
+msgstr ""
+
+#: ../index.php:534
+msgid "Website title"
+msgstr ""
+
+#: ../index.php:535
+msgid "Website URL (including http://)"
+msgstr ""
+
+#: ../index.php:537
+msgid "Your name (first and last name)"
+msgstr ""
+
+#: ../index.php:538
+msgid "Your email (private)"
+msgstr ""
+
+#: ../index.php:542
+msgid "Reciprocal URL (including http://)"
+msgstr ""
+
+#: ../index.php:548
+msgid "Address"
+msgstr ""
+
+#: ../index.php:549
+msgid "City/County"
+msgstr ""
+
+#: ../index.php:550
+msgid "Country"
+msgstr ""
+
+#: ../index.php:559
+msgid "Phone"
+msgstr ""
+
+#: ../index.php:561
+msgid "Fax"
+msgstr ""
+
+#: ../index.php:563
+msgid "Open hours"
+msgstr ""
+
+#: ../index.php:578
+msgid "Maximum images:"
+msgstr ""
+
+#: ../index.php:578
+msgid "Maximum filesize:"
+msgstr ""
+
+#: ../index.php:582
+msgid "Description"
+msgstr ""
+
+#: ../index.php:591
+msgid "Add"
+msgstr ""
+
+#: ../index.php:604 ../index.php:667
+msgid "Search directory..."
+msgstr ""
+
+#: ../index.php:605 ../index.php:668
+msgid "Search"
+msgstr ""
+
+#: ../index.php:617
+msgid "Latest link"
+msgstr ""
+
+#: ../index.php:824
+msgid "Directory Statistics"
+msgstr ""
+
+#: ../index.php:827
+msgid " links"
+msgstr ""
+
+#: ../index.php:828
+msgid " pending links"
+msgstr ""
+
+#: ../index.php:829
+msgid " categories"
+msgstr ""
+
+#: ../index.php:868
+msgid "Most Visited Links"
+msgstr ""
+
+#: ../includes/functions.php:223 ../includes/functions.php:247
+msgid "Name"
+msgstr ""
+
+#: ../includes/functions.php:224 ../includes/functions.php:248
+msgid "Email"
+msgstr ""
+
+#: ../includes/functions.php:225 ../includes/functions.php:250
+msgid "Message"
+msgstr ""
+
+#: ../includes/functions.php:238
+msgid "Thank you. Your message has been sent."
+msgstr ""
+
+#: ../includes/functions.php:240
+msgid "There was an error with your message. Please try again."
+msgstr ""
+
+#: ../includes/functions.php:244
+msgid "Quick Contact/Application"
+msgstr ""
+
+#: ../includes/functions.php:252
+msgid "Send message"
+msgstr ""
+
+#: ../includes/page-display-directory.php:57
+msgid "review(s)"
+msgstr ""
+
+#: ../includes/page-display-directory.php:100
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/page-display-directory.php:103
+msgid "Fax:"
+msgstr ""
+
+#: ../includes/page-display-directory.php:106
+msgid "Open hours:"
+msgstr ""
+
+#: ../includes/page-display-directory.php:113
+msgid "enter your location to get directions from Google Maps..."
+msgstr ""
+
+#: ../includes/page-display-directory.php:114
+msgid "Go"
+msgstr ""
+
+#: ../includes/page-display-directory.php:132
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/registration.php:43
+msgid "Search Roo Categories"
+msgstr ""
+
+#: ../includes/registration.php:44
+msgid "All Roo Categories"
+msgstr ""
+
+#: ../includes/registration.php:45
+msgid "Parent Roo Categories"
+msgstr ""
+
+#: ../includes/registration.php:46
+msgid "Parent Roo Categories:"
+msgstr ""
+
+#: ../includes/registration.php:47
+msgid "Edit Roo Category"
+msgstr ""
+
+#: ../includes/registration.php:48
+msgid "Update Roo Category"
+msgstr ""
+
+#: ../includes/registration.php:49
+msgid "Add New Roo Category"
+msgstr ""
+
+#: ../includes/registration.php:50
+msgid "New Roo Category Name"
+msgstr ""
+
+#: ../includes/registration.php:51
+msgid "Roo Categories"
+msgstr ""
+
+#: ../includes/registration.php:67
+msgid "Search Roo Flavours"
+msgstr ""
+
+#: ../includes/registration.php:68
+msgid "Popular Roo Flavours"
+msgstr ""
+
+#: ../includes/registration.php:69
+msgid "All Roo Flavours"
+msgstr ""
+
+#: ../includes/registration.php:72
+msgid "Edit Roo Flavour"
+msgstr ""
+
+#: ../includes/registration.php:73
+msgid "Update Roo Flavour"
+msgstr ""
+
+#: ../includes/registration.php:74
+msgid "Add New Roo Flavour"
+msgstr ""
+
+#: ../includes/registration.php:75
+msgid "New Roo Flavour Name"
+msgstr ""
+
+#: ../includes/registration.php:76
+msgid "Separate flavours with commas"
+msgstr ""
+
+#: ../includes/registration.php:77
+msgid "Add or remove flavours"
+msgstr ""
+
+#: ../includes/registration.php:78
+msgid "Choose from the most used flavours"
+msgstr ""
+
+#: ../includes/registration.php:79
+msgid "Roo Flavours"
+msgstr ""
